@@ -1,6 +1,6 @@
 # qiankun-example
 
-**个人qiankun框架练习，纯转载，无商用，感谢原作者。**
+**个人qiankun框架练习，纯转载，无商用，感谢原作者@fengxianqi。**
 
 qiankun 实战 demo，父应用 vue，子应用使用 `react`, `vue` 和 `原生HTML`。
 
